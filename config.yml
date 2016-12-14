@@ -1,0 +1,10 @@
+# デバイスID (Cumulocityが払い出したID)
+deviceId: "******"
+# CumulocityへのログインID
+userId: "******"
+# Cumulocityへのログインパスワード
+password:  "******"
+# GPIOのPIN番号
+gpioPin: **
+# CumulocityのURL
+url: "******"
